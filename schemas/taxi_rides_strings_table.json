@@ -1,0 +1,11 @@
+[
+  { "name": "ride_id", "type": "STRING", "mode": "NULLABLE" },
+  { "name": "point_idx", "type": "INTEGER", "mode": "NULLABLE" },
+  { "name": "timestamp", "type": "STRING", "mode": "NULLABLE" },
+  { "name": "ride_status", "type": "STRING", "mode": "NULLABLE" },
+  { "name": "passenger_count", "type": "INTEGER", "mode": "NULLABLE" },
+  { "name": "subscription_name", "type": "STRING", "mode": "NULLABLE" },
+  { "name": "message_id", "type": "STRING", "mode": "NULLABLE" },
+  { "name": "attributes", "type": "STRING", "mode": "NULLABLE" },
+  { "name": "publish_time", "type": "TIMESTAMP", "mode": "NULLABLE" }
+]

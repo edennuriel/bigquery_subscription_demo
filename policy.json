@@ -1,0 +1,12 @@
+{
+"bindings": [
+ {
+   "members": [
+     "serviceAccount:service-${PROJECT_NUMBER}@gcp-sa-pubsub.iam.gserviceaccount.com"
+   ],
+   "role": "roles/bigquery.dataEditor"
+ }
+]
+}
+
+
