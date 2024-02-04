@@ -1,0 +1,7 @@
+[
+  { "name": "ride_id", "type": "STRING", "mode": "NULLABLE" },
+  { "name": "point_idx", "type": "INTEGER", "mode": "NULLABLE" },
+  { "name": "latitude", "type": "FLOAT", "mode": "NULLABLE" },
+  { "name": "longitude", "type": "FLOAT", "mode": "NULLABLE" }
+ ]
+ 

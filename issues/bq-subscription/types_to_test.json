@@ -1,0 +1,14 @@
+[
+{"pb":"float","bq":"FLOAT","val":0.1},
+{"pb":"float","bq":"FLOAT64","val":0.1},
+{"pb":"double","bq":"FLOAT64","val":0.1},
+{"pb":"float","bq":"FLOAT64","val":0.1},
+{"pb":"int32","bq":"INT64","val":10},
+{"pb":"uint32","bq":"INT64","val":10},
+{"pb":"sint32","bq":"INT64","val":10},
+{"pb":"fixed32","bq":"INT64","val":10},
+{"pb":"string","bq":"STRING","val":"test"},
+{"avsc":"float","bq":"FLOAT","val":0.1}
+]
+
+

@@ -1,0 +1,8 @@
+[
+{"pb":"float","bq":"FLOAT","val":0.1},
+{"pb":"float","bq":"FLOAT64","val":0.1},
+{"pb":"double","bq":"FLOAT64","val":0.1},
+{"pb":"float","bq":"FLOAT64","val":0.1}
+]
+
+

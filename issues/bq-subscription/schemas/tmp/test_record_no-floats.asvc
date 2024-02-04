@@ -1,0 +1,10 @@
+{
+  "type":"record",
+  "name":"Rides",
+  "fields":[
+    {  "name":"ride_id", "type":"string"},
+    { "name":"point_idx","type":"int" },
+    { "name":"latitude","type":"string" },
+    { "name":"longitude","type":"string" }
+  ]
+}
